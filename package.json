@@ -1,0 +1,39 @@
+{
+  "name": "m",
+  "version": "1.0.0",
+  "description": "Good news, mui-layout has been upgraded to @mui-treasury/layout with a lot of cool features coming!",
+  "keywords": [
+    "dashboard",
+    "material-ui",
+    "layout",
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.0",
+    "@material-ui/icons": "4.9.1",
+    "@material-ui/styles": "4.10.0",
+    "@mui-treasury/layout": "4.5.0",
+    "@mui-treasury/mockup": "1.2.9",
+    "lodash": "4.17.20",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "4.0.0",
+    "styled-components": "5.2.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
